@@ -8,4 +8,4 @@ Brinquedo clássico da década de 50 (que eu só conheci quando assisti Toy Stor
 
 Bora jogar? Você pode fazer o clone desse projeto através do seguinte comando: git clone https://github.com/BediBrian/MagicBall.git
 
-Feedbacks são bem vindos 😉👍🏼
+😉👍🏼
